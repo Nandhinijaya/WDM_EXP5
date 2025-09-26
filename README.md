@@ -131,7 +131,8 @@ if __name__ == "__main__":
 <img width="1420" height="288" alt="image" src="https://github.com/user-attachments/assets/6385d621-d910-45a1-83cc-dbac9e2b2a2a" />
 
  # NOT
-<img width="1198" height="290" alt="image" src="https://github.com/user-attachments/assets/0c1c0933-aefe-493f-bcc2-b200b3697398" />
+ 
+<img width="1181" height="298" alt="image" src="https://github.com/user-attachments/assets/9669d2d8-0939-48d4-a071-86cf7238b142" />
 
 # AND
 <img width="1219" height="291" alt="image" src="https://github.com/user-attachments/assets/0cb8356d-63c8-4781-b295-8f0c779fa934" />
